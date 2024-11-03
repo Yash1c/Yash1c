@@ -47,6 +47,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Yash1c/Yash1c/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=xkefgvn8q789alwdzlmtwrgkr" alt="Spotify currently playing" />
 </div>
@@ -55,6 +59,26 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yash1c/count.svg?" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-montoya-6b668b2b0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="yashic" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Yashic_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/yashic_x3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://tryhackme.com/r/p/Yashic" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
 </div>
 
 ###
