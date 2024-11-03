@@ -1,8 +1,45 @@
-<br clear="both">
-
-<h2 align="left">Stats</h2>
+<h1 align="left">About me</h1>
 
 ###
+
+<h3 align="left">I'm Guilherme — currently pursuing a Bachelor's in Cybersecurity at PUCPR. 🛡️ I’m passionate about technology and dedicated to deepening my expertise in Rust, particularly through the Polkadot course, which has been a fantastic learning journey!<br><br>💻 My primary programming language is Rust, and I enjoy exploring its potential in cybersecurity. I aim to build a career on the Red Team side, strengthening my skills to tackle complex security challenges from an offensive perspective.<br><br>🌱 Goals & Aspirations<br>I'm inspired to become a team leader who brings positivity, collaboration, and harmony into the workplace. My mission is to create environments where people feel valued and motivated to innovate and succeed.<br><br>🌐 Connect with Me<br>Whether you're a fellow cybersecurity enthusiast, a Rustacean, or someone who shares a passion for tech, feel free to connect with me here on GitHub!</h3>
+
+###
+
+<h1 align="center">Techs</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">Stats</h1>
+
+###
+
+
+[![Spotify](https://novatorem-gf3mb0fpa-yashics-projects.vercel.app/api/spotify)](https://open.spotify.com/user/yashic)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yash1c&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
