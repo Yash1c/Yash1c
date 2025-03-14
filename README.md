@@ -37,7 +37,7 @@
   <a href="https://discord.gg/eaC2URkP" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="https://www.youtube.com/@Yashic_" target="_blank">
+  <a href="https://www.youtube.com/@Yashic_?sub_confirmation=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
   <a href="https://www.instagram.com/yashic_m/" target="_blank">
