@@ -40,9 +40,12 @@
   <a href="https://www.instagram.com/yashic_m/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://tryhackme.com/r/p/Yashic" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
-  </a>
+<a href="https://tryhackme.com/r/p/Yashic" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe">
+</a>
+<a href="https://polkadot.com/" target="_blank">
+ 	<img src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" alt="polkadot">
+</a>
 </div>
 <br clear="both">
 
