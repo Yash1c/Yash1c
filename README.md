@@ -72,12 +72,6 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=xkefgvn8q789alwdzlmtwrgkr" alt="Spotify currently playing" />
 </div>
 
-## How many people have seen me 👀
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Yash1c/count.svg?" />
-</div>
-
 ###
 
 
