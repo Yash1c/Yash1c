@@ -1,10 +1,30 @@
-<h1 align="left">About Me</h1>
+<h1 align="left">Guilherme Trevisan</h1>
+<h3 align="left">Technical Consultant - Digital Security & Penetration Testing</h3>
 
 ###
 
-<h3 align="left">👤 I'm Guilherme — 4rd-year Cybersecurity student at PUCPR, aspiring to become a Security Manager with a long-term goal of working and living in Germany. 🛡️💼</h3><h3 align="left">🔧 Tech Focus<br> • Primary language: Rust (with applied learning via Polkadot course)<br> • Passionate about offensive security (Red Team) and system-level challenges</h3><h3 align="left">🌍 Language Skills<br> • Fluent in Portuguese (native)<br> • Advancing my proficiency in English and German</h3><h3 align="left">🌟 Leadership Vision<br> Committed to developing collaborative, positive work environments where teams innovate effectively. Combining technical expertise with people-focused management.</h3><h3 align="left">📬 Let's Connect<br> Open to discussions about cybersecurity, Rust development, or international career opportunities in tech security.</h3>
+<h3 align="left">🛡️ About Me</h3>
+<p align="left">
+- 4th-year Cybersecurity student at PUCPR, currently working as a Technical Consultant focused on offensive security (Penetration Testing) and incident response.<br>
+- Seeking opportunities to advance into a Security Manager role, with a long-term goal of working and living in Germany.<br>
+- Passionate about using Rust for secure and low-level development, with applied experience from specialized courses (e.g., Polkadot/Substrate).<br>
+- Believe in collaborative work environments and technical leadership as a driver for innovation and security.
+</p>
 
-<h1 align="center">Techs</h1>
+<h3 align="left">🔧 Technical Skills</h3>
+<p align="left">
+- <b>Offensive Security:</b> Penetration Testing, Red Teaming, OSINT, Digital Forensics<br>
+- <b>Languages:</b> Rust (primary), Python, Bash<br>
+- <b>Tools:</b> Metasploit, Burp Suite, Wireshark, Script Automation<br>
+- <b>Languages:</b> Portuguese (Native), English (Advanced), German (Intermediate)
+</p>
+
+<h3 align="left">🚀 Professional Goals</h3>
+<p align="left">
+- Work as a Security Manager on challenging projects<br>
+- Contribute to secure ecosystems with Rust in critical applications<br>
+- Relocate to Germany for international experience in cybersecurity
+</p>
 
 <br clear="both">
 
