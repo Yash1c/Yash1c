@@ -52,35 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
-### Connect with me 🔗
-
-<h1 align="center">Social Media</h1>
-
-<h3 align="center">Connect with me 🔗</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-montoya-6b668b2b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://www.youtube.com/@Yashic_?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-
-  <a href="https://www.instagram.com/yashic_m/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <a href="https://tryhackme.com/r/p/Yashic" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" />
-  </a>
-
-  <a href="https://polkadot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" alt="Polkadot" />
-  </a>
-</div>
-<br clear="both">
-
 <h1 align="center">Stats</h1>
 
 <div align="center">
