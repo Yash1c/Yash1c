@@ -1,32 +1,33 @@
-<h1 align="left">Guilherme Trevisan</h1>
-<h3 align="left">Technical Consultant - Digital Security & Penetration Testing</h3>
+<h1 align="left">Guilherme Montoya</h1>
+<h3 align="left">Judicial Technical Assistant | Digital Forensic Investigator & OSINT Specialist</h3>
 
-### 🔗 [My site](https://guilhermemontoya.pro/)
+### 🔗 [Professional Website & Contact](https://guilhermemontoya.pro/)
 
 ###
 
-<h3 align="left">🛡️ About Me</h3>
+<h3 align="left">⚖️ About My Work</h3>
 <p align="left">
-- 4th-year Cybersecurity student at PUCPR, currently working as a Technical Consultant focused on offensive security (Penetration Testing) and incident response.<br>
-- Seeking opportunities to advance into a Security Manager role, with a long-term goal of working and living in Germany.<br>
-- Passionate about using Rust for secure and low-level development, with applied experience from specialized courses (e.g., Polkadot/Substrate).<br>
-- Believe in collaborative work environments and technical leadership as a driver for innovation and security.
+- I am a Judicial Technical Assistant and Digital Forensic Investigator, focused on producing technically valid evidence for legal proceedings. I operate at the intersection of technology and law.<br>
+- My expertise lies in applying forensic methodologies and open-source intelligence (OSINT) to investigate cases of online defamation, digital fraud, identity impersonation, and data leaks.<br>
+- I believe that technical rigor, professional ethics, and the preservation of the chain of custody are non-negotiable pillars for transforming data into actionable evidence.
 </p>
 
-<h3 align="left">🔧 Technical Skills</h3>
+<h3 align="left">🔍 Technical Expertise</h3>
 <p align="left">
-- <b>Offensive Security:</b> Penetration Testing, Red Teaming, OSINT, Digital Forensics<br>
-- <b>Languages:</b> Rust (primary), Python, Bash<br>
-- <b>Tools:</b> Metasploit, Burp Suite, Wireshark, Script Automation<br>
-- <b>Languages:</b> Portuguese (Native), English (Advanced), German (Intermediate)
+- Digital Forensics & Investigation: Chain of Custody Preservation, Metadata Analysis, Image Analysis (E01/RAW), Mobile Device Evidence Extraction, Forensic Timeline.<br>
+- Intelligence (OSINT): Fake Profile Investigation, Data Correlation, Digital Asset Tracking, Social Media Analysis.<br>
+- Languages: Rust (for developing robust security tools), Python (for automation and analysis), Bash (for task automation on Unix systems).<br>
+- Compliance & Ethics: Applied knowledge of LGPD and GDPR in investigations, with an ethical protocol that rejects commercial espionage or unauthorized access.<br>
+- Languages: Portuguese (Native), English (Technical/Advanced), German (Basic).
 </p>
 
 <h3 align="left">🚀 Professional Goals</h3>
 <p align="left">
-- Work as a Security Manager on challenging projects<br>
-- Contribute to secure ecosystems with Rust in critical applications<br>
-- Relocate to Germany for international experience in cybersecurity
+- Establish myself as a reference in Consultative Digital Forensics in Brazil.<br>
+- Apply Rust’s security and performance in the development of specialized forensic tools.<br>
+- Improve my proficiency in German and, in the medium term, pursue opportunities to work in Europe as a specialist in cross-border digital investigations.
 </p>
+
 
 <br clear="both">
 
