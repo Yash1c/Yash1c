@@ -67,7 +67,9 @@ I operate strictly within legal and ethical boundaries, with strong emphasis on 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash1c&layout=compact&langs_count=5&theme=nightowl&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Yash1c&theme=blue-green&hide_border=false" height="150"/>
+
+  <img src="https://streak-stats.demolab.com?user=Yash1c&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash1c&theme=tokyo-night&area=true&hide_border=true" height="300"/>
 </div>
 
