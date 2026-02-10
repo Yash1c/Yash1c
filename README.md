@@ -64,7 +64,7 @@ I operate strictly within legal and ethical boundaries, with strong emphasis on 
 ---
 
 <h1 align="center">📊 GitHub Activity</h1>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash1c&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph" /> <img src="https://streak-stats.demolab.com?user=Yash1c&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash1c&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&bg_color=040f0f" height="300" alt="activity-graph graph" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Yash1c&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash1c&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&bg_color=040f0f" height="300" alt="activity-graph graph" /> </div>
 
 
 ---
