@@ -9,11 +9,11 @@ Judicial Technical Assistant · Digital Forensic Consultant · OSINT Specialist
 
 <h3 align="left">⚖️ About My Work</h3>
 <p align="left">
+I operate strictly within legal and ethical boundaries, with strong emphasis on <strong>chain of custody, evidence integrity, and methodological rigor</strong> — transforming raw digital data into actionable, judicially sound evidence.
+  
 I work as a <strong>Judicial Technical Assistant and Digital Forensic Consultant</strong>, supporting lawyers and legal teams in cases where digital evidence is decisive.<br><br>
 
 My role is to <strong>translate technical complexity into clear legal strategy</strong>, delivering forensic reports and technical opinions that are defensible in court and aligned with procedural requirements.<br><br>
-
-I operate strictly within legal and ethical boundaries, with strong emphasis on <strong>chain of custody, evidence integrity, and methodological rigor</strong> — transforming raw digital data into actionable, judicially sound evidence.
 </p>
 
 ---
