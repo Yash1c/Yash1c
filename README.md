@@ -1,11 +1,13 @@
 <h1 align="left">Guilherme Montoya</h1>
 <h3 align="left">
-Judicial Technical Assistant · Digital Forensic Consultant · OSINT Specialist
+Judicial Technical Assistant · Digital Forensic Consultant
 </h3>
 
 ### 🔗 [Professional Website & Contact](https://guilhermemontoya.pro)
 
 ---
+
+"Establish physical presence in Poland, with forensic practice serving the European legal market." 
 
 <h3 align="left">⚖️ About My Work</h3>
 <p align="left">
@@ -49,15 +51,15 @@ My role is to <strong>translate technical complexity into clear legal strategy</
 <p align="left">
 • Portuguese — Native<br>
 • English — Advanced / Technical<br>
-• German — Basic (ongoing improvement)
+• German — Beginner
 </p>
 
 ---
 
 <h3 align="left">🚀 Professional Direction</h3>
 <p align="left">
-• Consolidate my role as a reference in <strong>Consultative Digital Forensics</strong> in Brazil<br>
-• Develop specialized forensic tools using <strong>Rust</strong>, focused on integrity and evidentiary robustness<br>
+• Consolidate my role as a reference in Consultative Digital Forensics in Brazil
+• Rust — developing specialized forensic tooling (in progress)
 • Strengthen legal-technical expertise for <strong>cross-border digital investigations</strong>, with medium-term professional expansion into Europe
 </p>
 
