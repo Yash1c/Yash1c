@@ -1,6 +1,6 @@
 <h1 align="left">Guilherme Montoya</h1>
 <h3 align="left">
-Judicial Technical Assistant · Digital Forensic Consultant
+Technical Consultant in Digital Forensics and OSINT * Technical Assistance in Expert Reports
 </h3>
 
 ### 🔗 [Professional Website & Contact](https://guilhermemontoya.pro)
