@@ -2,10 +2,6 @@
 
 **Digital Forensics Consultant · OSINT Analyst · Technical Assistant in Expert Reports**
 
-Founder of [MDFS — Montoya Digital Forensic Security](https://guilhermemontoya.pro) · Curitiba, PR · Brazil
-
----
-
 ### About
 
 I provide forensic consulting and technical assistance for criminal defense attorneys, law firms, and legal teams in cases where digital evidence is decisive.
@@ -53,7 +49,7 @@ My work is grounded in Brazilian criminal procedural law and international foren
 ### Education
 
 **Cybersecurity** — PUCPR (Pontifical Catholic University of Paraná)
-5th semester · Expected graduation: 2027
+6th semester · Expected graduation: 2027
 
 ---
 
@@ -64,15 +60,3 @@ My work is grounded in Brazilian criminal procedural law and international foren
 - German — Basic
 - Polish — Basic (self-study)
 
----
-
-### Contact
-
-- **Website:** [guilhermemontoya.pro](https://guilhermemontoya.pro)
-- **Email:** contato@guilhermemontoya.pro
-- **Instagram:** [@mdfs.forense](https://instagram.com/mdfs.forense)
-- **LinkedIn:** [Guilherme Montoya](https://linkedin.com/in/guilhermemontoya)
-
----
-
-*MDFS — Montoya Digital Forensic Security · CNPJ 64.220.793/0001-37 · Curitiba/PR*
